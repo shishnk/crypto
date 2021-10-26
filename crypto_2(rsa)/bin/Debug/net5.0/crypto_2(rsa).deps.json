@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "crypto_2(rsa)/1.0.0": {
+        "runtime": {
+          "crypto_2(rsa).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "crypto_2(rsa)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

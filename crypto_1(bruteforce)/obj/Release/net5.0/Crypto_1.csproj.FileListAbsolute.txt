@@ -1,0 +1,16 @@
+/home/hukutka/repos/crypto/crypto_1(bruteforce)/bin/Release/net5.0/Crypto_1
+/home/hukutka/repos/crypto/crypto_1(bruteforce)/bin/Release/net5.0/Crypto_1.deps.json
+/home/hukutka/repos/crypto/crypto_1(bruteforce)/bin/Release/net5.0/Crypto_1.runtimeconfig.json
+/home/hukutka/repos/crypto/crypto_1(bruteforce)/bin/Release/net5.0/Crypto_1.runtimeconfig.dev.json
+/home/hukutka/repos/crypto/crypto_1(bruteforce)/bin/Release/net5.0/Crypto_1.dll
+/home/hukutka/repos/crypto/crypto_1(bruteforce)/bin/Release/net5.0/ref/Crypto_1.dll
+/home/hukutka/repos/crypto/crypto_1(bruteforce)/bin/Release/net5.0/Crypto_1.pdb
+/home/hukutka/repos/crypto/crypto_1(bruteforce)/obj/Release/net5.0/Crypto_1.csprojAssemblyReference.cache
+/home/hukutka/repos/crypto/crypto_1(bruteforce)/obj/Release/net5.0/Crypto_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/hukutka/repos/crypto/crypto_1(bruteforce)/obj/Release/net5.0/Crypto_1.AssemblyInfoInputs.cache
+/home/hukutka/repos/crypto/crypto_1(bruteforce)/obj/Release/net5.0/Crypto_1.AssemblyInfo.cs
+/home/hukutka/repos/crypto/crypto_1(bruteforce)/obj/Release/net5.0/Crypto_1.csproj.CoreCompileInputs.cache
+/home/hukutka/repos/crypto/crypto_1(bruteforce)/obj/Release/net5.0/Crypto_1.dll
+/home/hukutka/repos/crypto/crypto_1(bruteforce)/obj/Release/net5.0/ref/Crypto_1.dll
+/home/hukutka/repos/crypto/crypto_1(bruteforce)/obj/Release/net5.0/Crypto_1.pdb
+/home/hukutka/repos/crypto/crypto_1(bruteforce)/obj/Release/net5.0/Crypto_1.genruntimeconfig.cache
