@@ -4,7 +4,7 @@ using System.IO;
 
 namespace RSA
 {
-    class SimpleNumbers : Function
+    class PrimeNumbers : Function
     {
         private UInt32 p;
         private UInt32 q;
@@ -18,7 +18,7 @@ namespace RSA
         public UInt64 PrivateExp => d;
         public UInt64 Mult => n;
 
-        public SimpleNumbers(string path)
+        public PrimeNumbers(string path)
         {
             using (var sr = new StreamReader(path))
             {
