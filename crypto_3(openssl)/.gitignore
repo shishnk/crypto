@@ -1,0 +1,8 @@
+*.crt
+*.p12
+*.pfx
+*.json
+*.crt
+*.csr
+*.key
+*.srl
